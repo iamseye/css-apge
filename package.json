@@ -1,0 +1,22 @@
+{
+  "name": "css-page",
+  "version": "1.0.0",
+  "description": "Landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/iamseye/css-page.git"
+  },
+  "author": "jessie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/iamseye/css-page/issues"
+  },
+  "homepage": "https://gitlab.com/iamseye/css-page#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
